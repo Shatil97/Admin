@@ -1,15 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import { PRIMARY_COLOR,SECONDARY_COLOR,WHITE  } from '../color/colors'
 
-const HomeScreen = () => {
+const ClassesListScreen = () => {
   return (
     <View>
-      <Text>changed</Text>
+      <Text>Class list</Text>
     </View>
   )
 }
 
-export default HomeScreen
+export default ClassesListScreen
 
 const styles = StyleSheet.create({})
