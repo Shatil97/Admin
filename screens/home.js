@@ -5,7 +5,7 @@ import { PRIMARY_COLOR,SECONDARY_COLOR,WHITE  } from '../assets/colors'
 const HomeScreen = () => {
   return (
     <View>
-      <Text>Home something is changed</Text>
+      <Text>changed</Text>
     </View>
   )
 }
